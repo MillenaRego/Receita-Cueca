@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(252, 221, 164)
+}
+.cueca{
+    border: 5px solid rgb(204, 201, 18);
+    border-radius: 30px;
+}
+.ingredientes{
+    background-color: aliceblue;
+    margin-left: 0px;
+}
+.ingredientes{
+    text-align: center;
+}
+    
